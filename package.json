@@ -1,0 +1,28 @@
+{
+  "name": "add-code-cleaner",
+  "description": "it helps you to keep a clean code in your repository",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fredericobreno/add-code-cleaner.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lint",
+    "clean",
+    "code",
+    "code-cleaner"
+  ],
+  "author": "Frederico Breno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fredericobreno/add-code-cleaner/issues"
+  },
+  "homepage": "https://github.com/fredericobreno/add-code-cleaner#readme",
+  "bin": {
+    "add-code-cleaner": "./index.js"
+  }
+}
