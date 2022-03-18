@@ -1,7 +1,7 @@
 {
   "name": "add-code-cleaner",
   "description": "it helps you to keep a clean code in your repository",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/fredericobreno/add-code-cleaner.git"
